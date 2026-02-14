@@ -73,7 +73,7 @@ The following table summarizes the **accuracy (%)** achieved by each model acros
 | **M5** | 0.00 | 96.08 | 96.73 | 99.66 | 97.75 |
 
 
-![Accuracy Comparison of Models vs Sampling Techniques](sampling_plots.png)
+![Accuracy Comparison of Models vs Sampling Techniques](sampling_plot.png)
 
 ---
 
